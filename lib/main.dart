@@ -15,7 +15,7 @@ class EarthShieldApp extends StatelessWidget {
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
       theme: ThemeData(
-        primarySwatch: Colors.green,
+       // primarySwatch: Colors.green,
       ),
     );
   }
